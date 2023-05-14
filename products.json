@@ -1,0 +1,57 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        "price":1154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+    
+        "name":"watch",
+         "price":115,
+         "feature":true,
+         "company":"samsung"
+        
+    },
+    {
+        "name":"watch10",
+        "price":1150,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"min20",
+        "price":1110,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphonepromax",
+        "price":1152,
+        "feature":true,
+        "company":"samsung"
+    },
+    {
+        "name":"iphoneultra",
+        "price":1132,
+        "feature":true,
+        "company":"apple"
+    }, {
+        "name":"s20",
+        "price":1159,
+        "feature":true,
+        "company":"samsung"
+    },
+    {
+        "name":"headphones",
+        "price":1190,
+        "feature":true,
+        "company":"apple"
+    }
+]
